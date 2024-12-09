@@ -54,8 +54,6 @@
 <div style="display: inline_block">
     <img align="left" width="250px" alt="Oracle Certified Foundations Associate" src="https://brm-workforce.oracle.com/pdf/certview/images/OCIF2023CA.png">
     <img align="left" width="130px" alt="Scrum Fundamentals Certified" src="https://www.scrumstudy.com/Scrum-Images/brand-logo/badge-SFC.png">
+    <img align="left" width="130px" alt="GitHub Foundations" src="https://images.credly.com/images/024d0122-724d-4c5a-bd83-cfe3c4b7a073/image.png">
 </div><br/><br/>
-
-Desenvolvedor Full Stack apaixonado por aprendizado contínuo. Sempre em busca de novas habilidades e desafios.
-
-## Estudante de ADS na SPTECH
+<br/>
